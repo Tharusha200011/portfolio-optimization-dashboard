@@ -3,14 +3,3 @@ pandas
 numpy
 plotly
 scikit-learn
-tensorflow
-stable-baselines3
-gym
-ta
-transformers
-torch
-beautifulsoup4
-requests
-newspaper3k
-langgraph
-langchain-openai
