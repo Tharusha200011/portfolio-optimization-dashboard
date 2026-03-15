@@ -61,7 +61,7 @@ st.markdown("""
 # DATA PATH
 # -----------------------------
 
-DATA_PATH = r"C:\Users\tharu\Documents\Research\Files"
+DATA_PATH = "data"
 
 def load(file):
     return pd.read_csv(os.path.join(DATA_PATH,file))
